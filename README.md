@@ -57,10 +57,14 @@ First-year Mechanical Engineering student with a strong passion for software dev
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush110109mishra&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush110109mishra&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush110109mishra&show_icons=true&theme=dark&hide_border=false" alt="Ayush's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush110109mishra&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+</p>
+
 
 ---
 
