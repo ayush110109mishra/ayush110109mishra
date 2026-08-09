@@ -60,10 +60,16 @@ First-year Mechanical Engineering student with a strong passion for software dev
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush110109mishra&show_icons=true&theme=dark&hide_border=false" alt="Ayush's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush110109mishra&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+  <a href="https://github.com/ayush110109mishra">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayush110109mishra&show_icons=true&theme=tokyonight" alt="Ayush's GitHub Stats" />
+  </a>
 </p>
+<p align="center">
+  <a href="https://github.com/ayush110109mishra">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayush110109mishra&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+</p>
+
 
 
 ---
