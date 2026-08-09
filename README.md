@@ -52,11 +52,8 @@ First-year Mechanical Engineering student with a strong passion for software dev
 ## 🎓 Education
 
 * **B.Tech in Mechanical Engineering** — *University of Lucknow* (Expected 2029)
-  * **1st Sem SGPA:** 7.65
-* **Intermediate (Class XII - CBSE)** — *Children Public School, Fatehpur* (2025)
-  * **Result:** 75.5%
-* **High School (Class X - CBSE)** — *Vani International Academy, Fatehpur* (2023)
-  * **Result:** 83.5%
+  
+
 
 ---
 
