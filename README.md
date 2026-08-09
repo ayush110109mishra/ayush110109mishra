@@ -1,16 +1,16 @@
-# Hi there, I'm AYUSH MISRA 👋
+# Hi there, I'm AYUSH MISRA 
 
 *Mechanical Engineering Undergraduate | Software & AI Enthusiast*
 
 ---
 
-## 👨‍💻 Professional Summary
+##  Professional Summary
 
 First-year Mechanical Engineering student with a strong passion for software development, frontend engineering, and AI applications. Proven ability to build functional web applications, design intuitive user interfaces, and participate in competitive hackathons. Seeking to leverage analytical and technical problem-solving skills in a software engineering or AI-focused internship.
 
 ---
 
-## 🛠️ Key Skills & Technologies
+##  Key Skills & Technologies
 
 **Languages & Web Tech:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -30,7 +30,7 @@ First-year Mechanical Engineering student with a strong passion for software dev
 
 ---
 
-## 🏆 Hackathons & Experience
+##  Hackathons & Experience
 
 ### **Participant | Agentic AI Hackathon** *(May 2026)*
 * **News Investigator Project:** Built an AI-driven multi-document analysis tool utilizing Agentic AI workflows.
@@ -38,7 +38,7 @@ First-year Mechanical Engineering student with a strong passion for software dev
 
 ---
 
-## 📁 Featured Projects
+##  Featured Projects
 
 * **[Amazon E-Commerce Replica](https://github.com/ayush110109mishra/amazon_clone)**  
   *Developed a high-fidelity frontend clone of Amazon focusing on complex layouts, CSS grid/flexbox accuracy, and UI components.*
@@ -49,7 +49,7 @@ First-year Mechanical Engineering student with a strong passion for software dev
 
 ---
 
-## 🎓 Education
+##  Education
 
 * **B.Tech in Mechanical Engineering** — *University of Lucknow* (Expected 2029)
   
@@ -57,7 +57,7 @@ First-year Mechanical Engineering student with a strong passion for software dev
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush110109mishra&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush110109mishra&layout=compact&theme=dark)
