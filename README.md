@@ -1,4 +1,4 @@
-# Hi there, I'm AYUSH MISRA 
+# Hi there, I'm AYUSH MISHRA
 
 *Mechanical Engineering Undergraduate | Software & AI Enthusiast*
 
