@@ -46,6 +46,39 @@ First-year Mechanical Engineering student with a strong passion for software dev
 
 ---
 
+## Pulse — SaaS Analytics Dashboard
+
+**A modern, responsive SaaS analytics dashboard built with React to visualize business performance, revenue trends, user activity, and key performance indicators through interactive charts and reusable UI components.**
+
+🔗 **Live Demo:** https://pulse-saas-dashboard-psi.vercel.app/
+
+💻 **GitHub:** 
+
+### Key Features
+- **Interactive Dashboard:** KPI cards for tracking revenue, users, growth, and other business metrics.
+- **Data Visualization:** Interactive charts for exploring revenue trends and analytics.
+- **User Management:** Searchable and filterable user table with sorting, pagination, and user details.
+- **Analytics Page:** Dedicated views for business performance and data insights.
+- **Notifications:** Notification dropdown with read/unread status and unread count.
+- **Settings Panel:** Configurable general, appearance, and notification preferences.
+- **Light & Dark Mode:** Theme switching with saved preferences.
+- **Responsive UI:** Layout designed for desktop, tablet, and mobile screens.
+- **Reusable Components:** Consistent UI components and centralized design tokens.
+- **Mock Data Architecture:** Structured local datasets powering dashboard metrics, charts, users, and activity feeds.
+
+### Tech Stack
+React 18 · JavaScript (ES6+) · Vite · React Router v6 · CSS3 · Recharts · Lucide Icons · LocalStorage · Vercel
+
+### What I Learned
+- Building reusable and maintainable React components.
+- Managing UI state and implementing interactive filters.
+- Structuring mock data separately from presentation components.
+- Visualizing business metrics using charts.
+- Implementing responsive layouts, theme persistence, and multi-page navigation.
+- Testing functionality and deploying a frontend application.
+
+**Note:** This is a frontend demonstration powered by mock data; it does not currently use a live backend, database, or real business APIs.
+
 
 ##  Education
 
