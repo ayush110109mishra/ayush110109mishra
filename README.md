@@ -52,7 +52,7 @@ First-year Mechanical Engineering student with a strong passion for software dev
 
 🔗 **Live Demo:** https://pulse-saas-dashboard-psi.vercel.app/
 
-💻 **GitHub:** 
+💻 **GitHub:** https://github.com/ayush110109mishra/pulse-saas-dashboard
 
 ### Key Features
 - **Interactive Dashboard:** KPI cards for tracking revenue, users, growth, and other business metrics.
